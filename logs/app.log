@@ -1,0 +1,384 @@
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 14:10:50.785'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:02:43.790'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:03:39.158'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:03:49.860'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:07:22.974'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:07:37.357'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:07:46.423'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:10:02.953'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:10:53.412'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:10:57.623'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:12:56.160'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:13:12.922'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:13:14.609'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:13:16.832'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:14:48.122'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:15:05.144'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:15:28.310'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:16:58.139'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:22:00.535'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:22:07.582'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:25:28.280'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:25:49.959'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:30:29.441'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:31:25.535'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:31:29.436'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:37:16.741'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:40:01.258'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:41:01.479'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:43:07.743'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:43:21.701'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:45:02.281'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:49:58.097'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:50:15.837'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:52:11.787'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 19:54:05.437'
+}
+{
+  message: 'Server is running on http://localhost:3002',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:08:16.678'
+}
+{
+  message: 'a user connected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:24:55.693'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:24:55.698'
+}
+{
+  message: 'user disconnected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:25:35.311'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:25:35.315'
+}
+{
+  message: 'a user connected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:26:10.101'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:26:10.105'
+}
+{
+  message: 'user disconnected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:31:34.013'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:31:34.019'
+}
+{
+  message: 'a user connected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:32:09.988'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:32:09.991'
+}
+{
+  message: 'user disconnected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:34:58.660'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:34:58.666'
+}
+{
+  message: 'a user connected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:36:24.401'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:36:24.405'
+}
+{
+  message: 'user disconnected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:39:37.776'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:39:37.783'
+}
+{
+  message: 'a user connected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:44:40.598'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:44:40.601'
+}
+{
+  message: 'user disconnected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:46:05.852'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:46:05.858'
+}
+{
+  message: 'a user connected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:50:05.598'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:50:05.602'
+}
+{
+  message: 'user disconnected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:51:47.949'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:51:47.953'
+}
+{
+  message: 'a user connected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:53:01.182'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:53:01.186'
+}
+{
+  message: 'user disconnected',
+  level: 'info',
+  environment: 'local',
+  timestamp: '2023-12-25 20:53:45.972'
+}
+{
+  environment: 'local',
+  level: 'info',
+  message: 'Total active connections:',
+  timestamp: '2023-12-25 20:53:45.973'
+}
